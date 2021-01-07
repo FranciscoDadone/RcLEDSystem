@@ -31,8 +31,8 @@ int rVal = 254;
 int gVal = 1;
 int bVal = 127;
 
-int rDir = -1, rDir2 = 1;
-int gDir = 1, gDir2 = -1;
+int rDir = -1, rDir2 = -1;
+int gDir = 1, gDir2 = 1;
 int bDir = -1, bDir2 = -1;
 
 
